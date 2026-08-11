@@ -20,3 +20,4 @@ def prime (num):
             break
 
 prime(7)
+
